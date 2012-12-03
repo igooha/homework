@@ -74,6 +74,7 @@
 
                                         <li class="nav-header">Настройки</li>
                                         <li><a href="/edit_profile">Редактировать профиль</a></li>
+                                        <li><a href="/photo">Изменить изображение профиля</a></li>
                                         <li><a href="/change_login">Сменить логин</a></li>
                                         <li><a href="/change_password">Сменить пароль</a></li>
                                         <li class="divider"></li>
